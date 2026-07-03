@@ -84,3 +84,4 @@ const ahmed = {
 ---
 
 <p align="center">📫 Reach out — always open to interesting projects and collaborations.</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B8DF7,100:4ECDC4&height=120&section=footer"/>
