@@ -78,7 +78,7 @@ const ahmed = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB" alt="GitHub streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB" height="165"/>
 </p>
 
 ---
