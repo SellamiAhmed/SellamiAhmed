@@ -28,42 +28,48 @@ const ahmed = {
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Tech Stack
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
-</p>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white"/>
-</p>
-
-**Backend**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white"/>
-</p>
-
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
-</p>
-
-**DevOps & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"/>
-</p>
+<table>
+<tr><td><b>Languages</b></td><td>
+<img src="https://skillicons.dev/icons?i=ts" height="40"/>
+<img src="https://skillicons.dev/icons?i=js" height="40"/>
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+</td></tr>
+<tr><td><b>Frontend</b></td><td>
+<img src="https://skillicons.dev/icons?i=react" height="40"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
+<img src="https://skillicons.dev/icons?i=remix" height="40"/>
+<img src="https://skillicons.dev/icons?i=astro" height="40"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+</td></tr>
+<tr><td><b>Backend</b></td><td>
+<img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+<img src="https://skillicons.dev/icons?i=bun" height="40"/>
+<img src="https://skillicons.dev/icons?i=nestjs" height="40"/>
+<img src="https://skillicons.dev/icons?i=express" height="40"/>
+<img src="https://skillicons.dev/icons?i=prisma" height="40"/>
+</td></tr>
+<tr><td><b>Databases</b></td><td>
+<img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+<img src="https://skillicons.dev/icons?i=redis" height="40"/>
+</td></tr>
+<tr><td><b>AI / LLMs</b></td><td>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Chroma-FF6F61?style=flat&logoColor=white" height="28"/>
+</td></tr>
+<tr><td><b>DevOps</b></td><td>
+<img src="https://skillicons.dev/icons?i=docker" height="40"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</td></tr>
+</table>
 
 ---
 
