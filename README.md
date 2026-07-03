@@ -39,13 +39,10 @@ const ahmed = {
 <tr><td><b>Frontend</b></td><td>
 <img src="https://skillicons.dev/icons?i=react" height="40"/>
 <img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
-<img src="https://skillicons.dev/icons?i=remix" height="40"/>
-<img src="https://skillicons.dev/icons?i=astro" height="40"/>
 <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
 </td></tr>
 <tr><td><b>Backend</b></td><td>
 <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
-<img src="https://skillicons.dev/icons?i=bun" height="40"/>
 <img src="https://skillicons.dev/icons?i=nestjs" height="40"/>
 <img src="https://skillicons.dev/icons?i=express" height="40"/>
 <img src="https://skillicons.dev/icons?i=prisma" height="40"/>
