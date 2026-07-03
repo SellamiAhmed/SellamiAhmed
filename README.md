@@ -5,21 +5,30 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Building+scalable+web+platforms;Clean+architecture+%7C+Production-ready+code;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/sellami-ahmed">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+  </a>
+  <a href="https://youtube.com/@YOUR-CHANNEL">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28"/>
+  </a>
+  <a href="https://medium.com/@YOUR-HANDLE">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="28"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="32"/>
   </a>
   &nbsp;
-  <a href="mailto:ahmedsellami375@gmail.com">
+  <a href="mailto:YOUR-EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="32"/>
   </a>
   &nbsp;
-  <a href="https://github.com/SellamiAhmed">
+  <a href="https://github.com/YOUR-GITHUB">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="32"/>
   </a>
 </p>
 
-
----
 
 ### 👋 About Me
 
